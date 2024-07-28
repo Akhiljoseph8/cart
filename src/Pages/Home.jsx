@@ -55,13 +55,13 @@ function Home() {
         <header class="bg-dark py-5">
         <Carousel>
       <Carousel.Item>
-        <img src="src/assets/ban5.jpg" alt="" style={{height:"500px"}} className='w-100 img-fluid'/>
+        <img src="https://static.vecteezy.com/system/resources/previews/011/871/813/non_2x/online-shopping-on-phone-buy-sell-business-digital-web-banner-application-money-advertising-payment-ecommerce-illustration-search-vector.jpg" alt="" style={{height:"500px"}} className='w-100 img-fluid'/>
       </Carousel.Item>
       <Carousel.Item>
-      <img src="src/assets/ban4.jpg" alt="" style={{height:"500px"}} className='w-100'/>
+      <img src="https://img.freepik.com/premium-vector/incredible-wow-sale-banner-design-template-big-super-sale-special-offer-save-up-50-off-vector-illustration_167801-2478.jpg" alt="" style={{height:"500px"}} className='w-100'/>
       </Carousel.Item>
       <Carousel.Item>
-      <img src="src/assets/ban1.jpg" alt="" style={{height:"500px"}} className='w-100'/>
+      <img src="https://static.vecteezy.com/system/resources/previews/002/006/977/non_2x/young-man-takes-a-shopping-cart-and-enjoy-online-shopping-through-smartphones-choose-to-buy-gifts-valentine-s-day-concepts-website-or-mobile-phone-application-flat-design-illustration-vector.jpg" alt="" style={{height:"500px"}} className='w-100'/>
       </Carousel.Item>
     </Carousel>
         </header>
